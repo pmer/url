@@ -4,5 +4,6 @@ version = "0.1.0"
 authors = ["Paul Merrill <pdm@pdm.me>"]
 
 [dependencies]
+edge = "0.0.1"
 rusqlite = "0.10.1"
 time = "0.1.36"
